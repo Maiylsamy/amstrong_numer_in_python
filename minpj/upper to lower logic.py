@@ -1,4 +1,4 @@
-n = eval(input('enter a number :'))
+n = eval(input('enter a word :'))
 for i in n:
     x = ord(i)
     if 65<= x <=90:
